@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Vehicle Count</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="vehicle_count">Vehicle Count</string>
+    <string name="counter_00">Counter: 00</string>
+    <string name="submit">Submit</string>
+    <string name="count">count</string>
+    <string name="counter_02">Counter2 00</string>
+    <string name="count2">count 2</string>
+
+    <string-array name="locations">
+        <item>Location</item>
+        <item>Gate 1</item>
+        <item>Gate 2</item>
+        <item>Gate 3</item>
+        <item>Gate 4</item>
+        <item>Gate 5</item>
+        <item>Sky walk</item>
+        <item>Fly Over</item>
+        <item>J Block</item>
+        <item>B Block</item>
+        <item>C1 Block</item>
+        <item>C2 Block</item>
+        <item>C4 Block</item>
+        <item>H2 Block</item>
+        <item>D1 &amp; D2 Block</item>
+        <item>D3 &amp; D4 Block</item>>
+        <item>G1 &amp; G2 Block</item>>
+        <item>G3 Block</item>
+        <item>G4 Block</item>
+        <item>F2 &amp; F3 Block</item>
+        <item>E1 Block</item>
+        <item>E2 Block</item>
+        <item>N1 Block</item>
+        <item>L1 &amp; L2 Block</item>
+        <item>L3 Block</item>
+        <item>L5 &amp; L6 Block</item>
+        <item>T1 Block</item>
+        <item>T2 Block</item>
+        <item>G6 MLCP</item>
+        <item>L7 MLCP</item>
+        <item>M3 Block</item>
+
+        <!-- Add more items as needed -->
+    </string-array>
+    <string-array name="options">
+        <item>Options</item>
+        <item>Yellow Board</item>
+        <item>Other YellowBoard</item>
+        <item>White Board Car Polling</item>
+        <item>Two Wheeler</item>
+        <item>TT Vehicle</item>
+        <item>Etios</item>
+        <item>Four Wheeler</item>
+        <item>Innova</item>
+        <item>Pedestrian</item>
+        <item>Visitor</item>
+        <!-- Add more items as needed -->
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="Menu">Menu</string>
+    <string name="reset">reset</string>
+    <string name="enter">Enter</string>
+    <string name="set">Set</string>
+</resources>
